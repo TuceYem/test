@@ -1,0 +1,55 @@
+{
+  "name": "Foodlocker",
+  "short_name": "Foodlocker",
+  "start_url": "/",
+  "display":"standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "orientation": "any",
+  "description": "Eine Web-Applikation, um eine vereinfachte Suche nach den Mensen in der Naehe zu ermoeglichen und die Speisen im Vorfeld einzusehen.",
+  "icons": [
+    {
+      "src": "img/logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "img/salad_256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/salad_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/salad_128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/salad_64.png",
+      "type": "image/png",
+      "sizes": "64x64",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/salad_32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/salad_16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "maskable"
+    }
+  ]
+
+}
