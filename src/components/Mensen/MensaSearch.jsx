@@ -1,4 +1,4 @@
-import {useDefaultHomeFetch} from "../../assets/utils/API";
+/*import {useDefaultHomeFetch} from "../../assets/utils/API";
 import MensaCard from "./MensaCard";
 
 function MensaSearch() {
@@ -17,3 +17,4 @@ function MensaSearch() {
 }
 
 export default MensaSearch
+*/

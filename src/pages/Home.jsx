@@ -29,12 +29,13 @@ function Home() {
         fetchMensen()
     })
 
-
+/*
     return (
         <div>
             <MensaSearch />
         </div>
     )
+    */
 }
 
 export default Home

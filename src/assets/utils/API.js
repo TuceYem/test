@@ -1,4 +1,4 @@
-import {useEffect, useState} from "react";
+/*import {useEffect, useState} from "react";
 import {toast} from "react-toastify";
 
 export const useDefaultHomeFetch = () => {
@@ -47,3 +47,4 @@ export const useDefaultHomeFetch = () => {
     return { canteens }
 }
 
+*/
