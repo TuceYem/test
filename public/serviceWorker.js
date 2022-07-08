@@ -1,5 +1,5 @@
 const CACHE_NAME = 'Foodlocker';
-const urlsToCache = ['/', 'index.html', 'offline.html'];
+const urlsToCache = ['/', '/index.html', '/offline.html'];
 
 const self = this;
 
